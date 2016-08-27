@@ -14,5 +14,9 @@ layout_spectrum: 0.7202465827576816
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a6a96ea-92ea-41e0-8813-7f58b08d831f.png
 name: The LTCFORUM Annual Summit & Tradeshow
+navigation:
+  - name: Register Today!
+    url: eventbrite.com
+    type: external
 title: Join Us in Las Vegas!
 description: Collaborate - Educate - Network
